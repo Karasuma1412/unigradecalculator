@@ -1,0 +1,17 @@
+
+/* 
+    Document   : controlStyle2
+*/
+
+.root{
+    -fx-font-size: 12pt;
+    -fx-font-family: "Sans-Serif";
+    -fx-base: #595959;
+    -fx-background: #363940;
+}
+
+.button{
+    -fx-text-fill: #FFFFFF;
+    -fx-border-color: #A3A3A3;
+    -fx-border-radius: 5;
+}
